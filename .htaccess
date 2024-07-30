@@ -1,0 +1,4 @@
+RewriteEngine on
+RewritwCond %{REQUEST_FILENAME} !-d
+RewritwCond %{REQUEST_FILENAME} !-f
+RewriteRule . /index.html [L]
