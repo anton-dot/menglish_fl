@@ -82629,7 +82629,7 @@ $.a4X=m
 A.jk("init logger")
 p=q.a
 p=p==null?null:A.bA(J.be(p.a,"user_id"))
-if((p==null?"0":p).length===0){k=new Uint8Array(16)
+if((p==null?"":p).length===0){k=new Uint8Array(16)
 j=new A.dU(Date.now(),0,!0)
 p=t.t
 B.L.dC(k,0,2,A.xo($.tO().$2("0x%04i",A.a([A.aIJ(j)],p))))
