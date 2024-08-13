@@ -24683,7 +24683,7 @@ m.aF()
 m.a_V(null,null,h)
 i.id$!==$&&A.at()
 i.id$=m
-n=m}i.UV(new A.Cj(p,new A.yG("/home","Menglish",l,j,k,null),o,n,null))
+n=m}i.UV(new A.Cj(p,new A.yG("/home","Menglish - English for everyone",l,j,k,null),o,n,null))
 i.A_()
 return A.r(null,r)}})
 return A.t($async$Y0,r)},
