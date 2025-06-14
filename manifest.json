@@ -3,10 +3,11 @@
     "short_name": "menglish",
     "start_url": ".",
     "display": "standalone",
-    
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+    "background_color": "#AC83F5",
+    "theme_color": "#ffffff",
     "icons": [
         {
             "src": "icons/Icon-192.png",
